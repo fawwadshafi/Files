@@ -1,0 +1,9 @@
+http://jayeshvarma.blogspot.com/2012/10/8-step-process-for-implementing-android.html
+
+http://docs.urbanairship.com/build/android_features.html
+
+http://docs.urbanairship.com/pages/viewpage.action?pageId=1509252
+
+http://urbanairship.com/resources/developer-resources
+
+http://developer.android.com/google/gcm/gs.html

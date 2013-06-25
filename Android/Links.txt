@@ -1,0 +1,3 @@
+http://docs.urbanairship.com/connect/android_push.html
+http://docs.urbanairship.com/connect/android_push.html?highlight=android#post--api-push-
+https://sites.google.com/site/coffeecod3r/ua_php
